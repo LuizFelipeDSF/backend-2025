@@ -1,0 +1,19 @@
+{
+  "name": "backend-2025",
+  "version": "1.0.0",
+  "description": "Servidor de backend para estudo da turma B do 3°Info de 2025",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "zod"
+  ],
+  "author": "Luiz Felipe Santos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
