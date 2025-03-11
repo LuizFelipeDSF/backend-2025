@@ -2,9 +2,10 @@
   "name": "backend-2025",
   "version": "1.0.0",
   "description": "Servidor de backend para estudo da turma B do 3°Info de 2025",
-  "main": "server.js",
+  "main": "src/server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node --watch src/server.js"
   },
   "keywords": [
     "nodejs",
